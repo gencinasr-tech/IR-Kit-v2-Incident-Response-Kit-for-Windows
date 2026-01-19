@@ -1,0 +1,107 @@
+ACUERDO DE SERVICIOS DE RESPUESTA A INCIDENTES INFORMÁTICOS
+Fecha: [Fecha]
+Número de Referencia del Servicio: [IR-XXXX]
+
+ENTRE:
+
+El Prestador del Servicio (Técnico/Consultor):
+[Tu Nombre o Razón Social]
+[Tu Número de Identificación Fiscal/CIF]
+[Tu Domicilio Profesional]
+[Tu Correo Electrónico y Teléfono]
+
+Y
+
+El Cliente:
+[Nombre del Cliente o Empresa]
+[NIF/CIF del Cliente]
+[Dirección del Cliente]
+[Persona de Contacto, Teléfono y Email]
+
+Ambas partes se reconocen capacidad legal para celebrar el presente acuerdo y se obligan mutuamente bajo los siguientes términos y condiciones.
+
+1. OBJETO Y ALCANCE DEL SERVICIO
+El Prestador del Servicio se compromete a realizar servicios profesionales de Respuesta a Incidentes de Seguridad Informática (IR) en los sistemas del Cliente afectados por una presunta brecha de seguridad, malware, ransomware o acceso no autorizado (en adelante, "el Incidente").
+
+Los servicios incluirán, según la metodología profesional del Prestador:
+
+Contención y Análisis Inicial: Evaluación, aislamiento del sistema y diagnóstico de la naturaleza del Incidente.
+
+Investigación Forense Digital: Captura y análisis de evidencia volátil (memoria RAM) y no volátil (artefactos del sistema) para determinar el alcance, origen y impacto del Incidente.
+
+Eradicación y Recuperación: Eliminación de componentes maliciosos identificados y asistencia para restaurar la funcionalidad operativa de los sistemas.
+
+Documentación y Reporte: Entrega de un informe final confidencial que detalle los hallazgos, evidencias, Indicadores de Compromiso (IOCs) y recomendaciones de seguridad.
+
+2. RESPONSABILIDADES DEL CLIENTE
+El Cliente declara ser el legítimo propietario o tener la autorización expresa para operar sobre los sistemas a intervenir. Además, se compromete a:
+
+Autorizar por escrito el acceso a los sistemas, datos y locaciones físicas necesarias.
+
+Designar un punto de contacto disponible durante la duración del servicio.
+
+Abstenerse de utilizar los sistemas afectados durante la investigación, salvo indicación expresa del Prestador.
+
+Proporcionar información relevante sobre el Incidente y la infraestructura de red.
+
+Realizar, si es posible, una copia de seguridad completa de los datos críticos antes del inicio de los trabajos, asumiendo la responsabilidad sobre su integridad.
+
+3. ALCANCE, LÍMITES Y ADVERTENCIA DE RIESGOS
+Naturaleza de los Servicios: El servicio es de detección, análisis y remediación técnica. No es una auditoría de seguridad exhaustiva ni una garantía de que todos los componentes maliciosos serán eliminados o que no existían compromisos previos no detectados.
+
+Riesgo de Pérdida de Datos: Los procedimientos de limpieza de malware, la reinstalación de sistemas o la recuperación de datos conllevan un riesgo inherente de pérdida parcial o total de la información. El Cliente reconoce este riesgo y exonera al Prestador de toda responsabilidad por daños o pérdidas de datos derivados de la aplicación de las técnicas forenses y de remediación necesarias para resolver el Incidente.
+
+Práctica Forense: El Prestador seguirá las mejores prácticas para preservar evidencias, pero no actúa como Perito Judicial Oficial a menos que se contrate un servicio específico por separado.
+
+4. TARIFAS, FACTURACIÓN Y PAGO
+Modalidad: Los servicios se facturarán bajo la modalidad de [Tarifa por Hora: XXX€/hora] o [Presupuesto Cerrado de XXXX€].
+
+Gastos: Los gastos de desplazamiento, dietas y/o adquisición de materiales específicos no incluidos se facturarán por separado previa aceptación.
+
+Forma de Pago: El pago se realizará por transferencia bancaria a la cuenta [IBAN de tu cuenta] en un plazo de [ej: 15] días desde la recepción de la factura.
+
+5. CONFIDENCIALIDAD
+Ambas partes se obligan a tratar toda la información intercambiada (datos del Cliente, hallazgos de la investigación, métodos del Prestador) como estrictamente confidencial, y solo podrá ser revelada por mandato legal o con consentimiento por escrito de la otra parte.
+
+6. PROPIEDAD INTELECTUAL Y ENTREGA DE EVIDENCIAS
+La metodología, herramientas y know-how del Prestador son y seguirán siendo de su propiedad exclusiva.
+
+Toda la evidencia digital recopilada (imágenes de memoria, logs, reportes de herramientas) será entregada al Cliente en un soporte físico (ej: disco USB/SSD) al finalizar el servicio, convirtiéndose en propiedad del Cliente. El Prestador se compromete a eliminar las copias bajo su custodia en un plazo de [ej: 30] días, salvo obligación legal de retención.
+
+7. LIMITACIÓN DE RESPONSABILIDAD
+El Prestador del Servicio realizará los trabajos con la diligencia profesional propia de su categoría, pero no garantiza resultados específicos.
+
+En ningún caso la responsabilidad total del Prestador podrá exceder del importe total pagado por el Cliente por los servicios objeto de este acuerdo.
+
+El Prestador no será responsable por daños indirectos, consecuentes o lucro cesante derivados del Incidente o de la aplicación de las medidas correctivas.
+
+8. DURACIÓN, MODIFICACIÓN Y TERMINACIÓN
+Este acuerdo entra en vigor al ser firmado por ambas partes y regirá hasta la completa ejecución de los servicios y el pago íntegro de los mismos.
+Cualquier modificación deberá ser acordada por escrito.
+Cualquier incumplimiento sustancial de las obligaciones aquí descritas podrá dar lugar a la terminación inmediata del acuerdo.
+
+9. LEY APLICABLE Y JURISDICCIÓN
+Este acuerdo se regirá e interpretará de acuerdo con la legislación española. Para cualquier controversia, las partes se someten a los Juzgados y Tribunales de [Ciudad de tu domicilio profesional], con renuncia expresa a cualquier otro fuero que pudiera corresponderles.
+
+ACEPTADO Y CONFORMADO POR AMBAS PARTES
+
+En [Ciudad], a [día] de [mes] de [año].
+
+EL PRESTADOR DEL SERVICIO: [Tu Nombre o Razón Social]
+
+Firma: _________________________
+
+EL CLIENTE: [Nombre del Cliente o Empresa]
+
+Firma: _________________________
+Nombre y Cargo: [Nombre y Cargo de la persona que firma en representación del cliente]
+DNI/NIF: [NIF del firmante]
+
+🔧 Instrucciones para usar esta plantilla:
+Completa todos los campos entre corchetes [ ] con la información específica de cada cliente y servicio.
+
+Revisa y adapta los puntos 4 (Tarifas) y 9 (Jurisdicción) según tu modelo de negocio y ubicación legal.
+
+Guárdalo como archivo .docx en la carpeta recursos/ de tu repositorio.
+
+IMPORTANTE: Este es un borrador. Para un uso profesional continuado, es altamente recomendable que un abogado lo revise y adapte a la legislación específica de tu país o región.
